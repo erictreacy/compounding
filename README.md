@@ -2,7 +2,7 @@
 description: Taking time to make digital notes for my lab life.
 ---
 
-# it's Eric's lab notes
+# Eric's Lab Notes
 
 ![A picture of a lab bench](.gitbook/assets/photo-1561328399-f94d2ce78679.jpg)
 

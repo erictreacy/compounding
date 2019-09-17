@@ -1,6 +1,6 @@
 # Table of contents
 
-* [it's Eric's lab notes](README.md)
+* [Eric's Lab Notes](README.md)
 * [Vendors](vendors.md)
 * [Vet Medications](vet-medications.md)
 * [Links](links.md)
