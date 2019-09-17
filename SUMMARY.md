@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Eric's Lab Notes](README.md)
+* [it's Eric's lab notes](README.md)
 * [Standard Operating Procedures \(SOPs\)](standard-operating-procedures-sops.md)
 * [Vendors](vendors.md)
 * [Reference](reference.md)
