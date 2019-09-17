@@ -8,9 +8,11 @@ description: Taking time to make digital notes for my lab life.
 
 ### Welcome to my lab notes! 🙂 
 
-Here you will find most things that I currently use in my lab: vendors, SOPs \(need Dropbox access\), references, links, and more. 
+**My name is** [**Eric**](https://etreacy.me)**, and welcome to me digital lab notes!** 👍 
 
-This page runs on GitBook. All updates \(gits\) and changes are found on GitHub. Feel free to make a pull request to edit on GitHub if you please.
+Here you will find most online sources that I  use in my lab: vendors, SOPs \(need Dropbox access\), references, links, training and more. 
+
+This page runs on GitBook. All updates and changes  \(gits\) are found on [GitHub](https://github.com/erictreacy/lab). Feel free to make a pull request to edit, if you please. If it seems like something I could use, I'll add it. 😉 
 
  
 
