@@ -14,8 +14,6 @@ description: Some things that I use while in the lab
 
 {% embed url="https://www.dropbox.com/" %}
 
-{% embed url="https://sciencemag.com" %}
-
 
 
 
