@@ -4,6 +4,8 @@
 
 {% embed url="https://pubchem.ncbi.nlm.nih.gov/" %}
 
+{% embed url="https://dailymed.nlm.nih.gov/dailymed/" %}
+
 
 
 
