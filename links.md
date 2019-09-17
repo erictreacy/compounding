@@ -6,7 +6,11 @@ description: A list of links for the lab.
 
 Here is a place where I like to put links for important things. 
 
-[Beyond Use Data \(BUD\) Calculator](https://bud.etreacy.me)
+{% embed url="https://bud.etreacy.me" %}
+
+{% embed url="https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm" %}
+
+
 
 
 
