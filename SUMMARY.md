@@ -1,10 +1,10 @@
 # Table of contents
 
 * [it's Eric's lab notes](README.md)
-* [Standard Operating Procedures \(SOPs\)](standard-operating-procedures-sops.md)
 * [Vendors](vendors.md)
-* [Reference materials](reference.md)
-* [Links](links.md)
 * [Vet Medications](vet-medications.md)
+* [Links](links.md)
+* [Standard Operating Procedures \(SOPs\)](standard-operating-procedures-sops.md)
 * [Training](training.md)
+* [Reference materials](reference.md)
 
