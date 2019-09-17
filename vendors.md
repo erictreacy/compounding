@@ -25,5 +25,5 @@ This is a current list of vendors that I typically use in the day-to-day managem
 
 | Vendor | Link |
 | :--- | :--- |
-| Eagle Analytical | [https://eagleanalytical.com/](https://eagleanalytical.com/) |
+| Eagle Analytical | [https://eagleanalytical.com](https://eagleanalytical.com/) |
 
