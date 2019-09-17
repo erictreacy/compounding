@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Compounding Lab](README.md)
+* [Eric's Lab Notes](README.md)
 * [Standard Operating Procedures \(SOPs\)](standard-operating-procedures-sops.md)
 * [Vendors](vendors.md)
 * [Reference](reference.md)
