@@ -1,10 +1,8 @@
 ---
-description: Venders we use
+description: Source APIs & Analytical Testing
 ---
 
 # Vendors
-
-![](.gitbook/assets/chemical.jpg)
 
 ## Trusted API Vendors
 
