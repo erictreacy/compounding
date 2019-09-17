@@ -8,7 +8,7 @@ description: Taking time to make digital notes for my lab life.
 
 ### Welcome to my lab notes! 🙂 
 
-**My name is** [**Eric**](https://etreacy.me)**, and welcome to me digital lab notes!** 👍 
+**My name is** [**Eric**](https://etreacy.me)**, and welcome to my digital lab notes!** 👍 
 
 Here you will find most online sources that I  use in my lab: vendors, SOPs \(need Dropbox access\), references, links, training and more. 
 
